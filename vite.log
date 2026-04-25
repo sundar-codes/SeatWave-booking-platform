@@ -1,0 +1,38 @@
+
+> vite-react-typescript-starter@0.0.0 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m368[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.184.113.7:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2m6:37:49 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m6:37:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:37:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/contexts/AuthContext.tsx, /src/index.css[22m
+[2m6:37:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EventDetails.tsx, /src/index.css[22m
+[2m6:37:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/contexts/AuthContext.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EventDetails.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m6:38:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:42:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:42:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:42:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:42:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:42:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:49:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProtectedRoute.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m6:54:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EventDetails.tsx, /src/index.css[22m
